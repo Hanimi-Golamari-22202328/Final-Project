@@ -1,4 +1,4 @@
-# MathsModel_PragathiKelkar
+# MathsModel_HanimiGolamari
 ### ACM40960 - PROJECTS IN MATHS MODELLING 2022/23
 ### PRAGATHI KELKAR-22202401,           HANIMI GOLAMARI-22202328
 # Single Deck Blackjack Simulation
